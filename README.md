@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how make myself better.
 - 💞️ I’m looking to collaborate on project Open Sources
 - 📫 How to reach me:
-  E-mail: matheus.kaiser@gmail.com
+  E-mail: matheus.caiser@gmail.com
   Linkedin: https://www.linkedin.com/in/matheus-henrique-caiser-barrozo-b7774755/
 
 
